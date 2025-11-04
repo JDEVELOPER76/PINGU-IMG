@@ -1,7 +1,7 @@
 # 🐧 PINGU  
 ### Herramienta Profesional de Procesamiento de Imágenes  
 
-![Banner](pingu.png)
+![Banner](pingu.PNG)
 
 ---
 
